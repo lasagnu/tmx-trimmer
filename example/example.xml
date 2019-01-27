@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+        <header adminlang="en-US" creationtool="XTM" creationtoolversion="$Revision: 34443 $" datatype="xml" o-tmf="XTM" srclang="en-US" segtype="sentence">
+                <prop type="user-defined">CUSTOMER: TestCustomer</prop>
+        </header>
+        <body>
+                <tu creationdate="20180921T125830Z" creationid="333333,W_W_Ubergermacht" changedate="20181026T115419Z" changeid="user" tuid="2594981">
+                        <prop type="x-Project">Lorem IPSUM - translation project Uebeebereberdf_de-de</prop>
+                        <prop type="x-previous-crc">395286495</prop>
+                        <prop type="x-next-crc">154000957</prop>
+                        <prop type="x-previous-target-crc">3987721613</prop>
+                        <prop type="x-next-target-crc">154000957</prop>
+                        <prop type="x-previous-source-text">Some random test data</prop>
+                        <prop type="x-next-source-text">Loremipsum</prop>
+                        <prop type="x-previous-target-text">Lorem ipsum opsum pipsum</prop>
+                        <prop type="x-previous-target-text">Lorem ipsum opsum pipsum</prop>
+                        <prop type="Status">new</prop>
+                        <prop type="x-xtm-status">approved</prop>
+                        <prop type="x-project-reference-id">{"ids":["CHUPACABRA-2334","CHUPACABRA-2334"]}</prop>
+                        <tuv xml:lang="en-US">
+                                <seg>Lorem ipsum?</seg>
+                        </tuv>
+                        <tuv xml:lang="de-DE">
+                                <seg>Du backpfaifengesicht!</seg>
+                        </tuv>
+                </tu>
+                <tu creationdate="20181120T140458Z" creationid="333333,W_W_Ubergermacht" changedate="20181128T155936Z" changeid="user" tuid="3354591">
+                        <prop type="x-Project">Woodcarving-6009 - Assessment for assessments</prop>
+                        <prop type="x-previous-crc">4148442600</prop>
+                        <prop type="x-next-crc">594164378</prop>
+                        <prop type="x-previous-target-crc">1473818705</prop>
+                        <prop type="x-next-target-crc">231002520</prop>
+                        <prop type="x-previous-source-text">Some random test data</prop>
+                        <prop type="x-next-source-text">Even more random test data</prop>
+                        <prop type="x-previous-target-text">Lorem ipsum opsum pipsum</prop>
+                        <prop type="x-previous-target-text">Lorem ipsum opsum pipsum</prop>
+                        <prop type="Status">new</prop>
+                        <prop type="x-xtm-status">approved</prop>
+                        <prop type="x-project-reference-id">{"ids":["CHUPACABRA-2334"]}</prop>
+                        <tuv xml:lang="en-US">
+                                <seg>
+                                        <bpt i="0" type="g">&lt;g id="i3"&gt;</bpt>You are such a nice person!<ept i="0">&lt;/g&gt;</ept>
+                                </seg>
+                        </tuv>
+                        <tuv xml:lang="de-DE">
+                                <seg>
+                                        <bpt i="0" type="g">&lt;g id="i3"&gt;</bpt>Du bist eine schwanzkopf!<ept i="0">&lt;/g&gt;</ept>
+                                </seg>
+                        </tuv>
+                </tu>
+				<tu creationdate="20181120T140458Z" creationid="13432,Some_random_test_data" changedate="20181128T155936Z" changeid="user" tuid="3354591">
+					<prop type="x-Project">BAMBO-8455 - I wish fish - Long cruise</prop>
+					<prop type="x-previous-crc">4148442600</prop>
+					<prop type="x-next-crc">594164378</prop>
+					<prop type="x-previous-target-crc">1473818705</prop>
+					<prop type="x-next-target-crc">231002520</prop>
+					<prop type="x-previous-source-text">Some random test data</prop>
+					<prop type="x-next-source-text">Even more random test data</prop>
+					<prop type="x-previous-target-text">Lorem ipsum opsum pipsum</prop>
+					<prop type="x-previous-target-text">Lorem ipsum opsum pipsum</prop>
+					<prop type="Status">new</prop>
+					<prop type="x-xtm-status">approved</prop>
+					<prop type="x-project-reference-id">{"ids":["CHUPACABRA-2334"]}</prop>
+					<tuv xml:lang="en-US">
+						<seg>
+							<bpt i="0" type="g">&lt;g id="i3"&gt;</bpt>I wonder if anyone sees that!<ept i="0">&lt;/g&gt;</ept>
+						</seg>
+					</tuv>
+					<tuv xml:lang="de-DE">
+						<seg>
+							<bpt i="0" type="g">&lt;g id="i3"&gt;</bpt>Ich auch, meine freunde, ich auch..<ept i="0">&lt;/g&gt;</ept>
+						</seg>
+					</tuv>
+				</tu>
+        </body>
+</tmx>
