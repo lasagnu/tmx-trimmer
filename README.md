@@ -5,7 +5,7 @@ Allows you to trim unnecessary entries in .tmx file generated in XTM (xtm.cloud)
 #Installation
 
 ```
-git clone https://github.com/
+git clone https://github.com/lasagnu/tmx-trimmer.git
 ```
 
 #Usage:
