@@ -17,7 +17,7 @@ tmx_trimmer.py [-h] -s SOURCE -p PROJECTS [-o OUTPUT]
 #Example
 
 ```
-python3 tmx_trimmer.py -s example/example.xml -p example/projects.xml -o output_file.xml
+python3 tmx_trimmer.py -s example/source.tmx -p example/projects.xml -o output_file.xml
 ```
 
 #Questions?
