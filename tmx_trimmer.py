@@ -20,7 +20,7 @@ if args.source and args.projects:
                 projects_root = projects_tree.getroot()
 
                 #populate project names from the external file
-                project_list = [ name.text for name in projects_root.iter('name')]
+                project_list = [ name.text for name in projects_root.iter('name') ]
 
                 #populate unwanted_list with entire tu elements whose project names are not in the project_list
                 unwanted_list = [ tu for tu in source_root.iter('tu') if tu[0].text not in project_list ]
