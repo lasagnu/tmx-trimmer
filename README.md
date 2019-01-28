@@ -1,7 +1,6 @@
 ## xtm_tmx_trimmer
 
 Allows you to trim unnecessary entries in .tmx file generated in XTM (xtm.cloud) based on project name.
-~marej <marej.dev@gmail.com>
 
 #Installation
 
